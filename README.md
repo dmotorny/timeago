@@ -1,2 +1,2 @@
 # timeago
-Angular 6 TimeAgo async pipe
+Angular 6.x TimeAgo async pipe
